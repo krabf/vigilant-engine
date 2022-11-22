@@ -1,0 +1,49 @@
+.width {
+  max-width: 42rem;
+  padding: 0 $measure;
+  margin: 0 auto;
+  position: relative;
+
+  @media screen and (max-width: $breakpoint-small) {
+    padding: 0 $measure / 2;
+  }
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.plain-ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.plain-link {
+  color: inherit;
+  text-decoration: none;
+  background-color: initial;
+  border: none;
+
+  &:hover {
+    background-color: initial;
+  }
+}
+
+.subdued {
+  color: $color-subdued;
+
+  @media screen and (prefers-color-scheme: dark) {
+    color: $color-subdued--darkMode;
+  }
+}
+
+.font-size-small {
+  font-size: $font-size-small;
+}
+
+.font-size-smallest {
+  font-size: $font-size-smallest;
+}

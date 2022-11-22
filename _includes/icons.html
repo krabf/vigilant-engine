@@ -1,0 +1,38 @@
+<section class="icon-grid">
+    {% for icon in site.data.icons %}
+    {% if forloop.index == 2 %}
+    <div class="icon layout-full hire-me">
+        <div class="inner">
+            <div class="inner-inner">
+                <div class="content">
+                    <h4>Need an icon or two?</h4>
+                    <p>I'm available for hire.</p>
+                </div>
+                <a href="https://twitter.com/AdamWhitcroft">DM me</a>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+    <div class="icon layout-{{ icon.layout }} type-{{ icon.type }}">
+        <div class="icon-img" style="background-image:url(/assets/icons/{{ icon.imgPath }}">
+        {% if icon.type == "kit" %}
+        <img src="/assets/icons/{{ icon.imgPath }}" />
+        {% endif %}
+        </div>
+        <div class="meta">
+            <p class="name">
+                {% if icon.downloadURL %}
+                <a href="{{ icon.downloadURL }}" title="Download {{ icon.name }} by Adam Whitcroft">{{ icon.name }} &darr;</a>
+                {% elsif icon.siteURL %}
+                <a href="{{ icon.siteURL }}" title="See {{ icon.name }} by Adam Whitcroft on {{ icon.client }}'s site">{{ icon.name }} &rarr;</a>
+                {% else %}
+                {{ icon.name }}
+                {% endif %}
+            </p>
+            <p class="client">
+                {{ icon.client }}
+            </p>
+        </div>
+    </div>
+    {% endfor %}
+</section>
