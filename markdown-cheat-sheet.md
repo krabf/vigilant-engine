@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+class: home
+---
+
 # Markdown Cheat Sheet
 
 Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
