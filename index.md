@@ -9,3 +9,9 @@ Hi, my name is Kush (she/her) and I’m a Cebu-based independent filmmaker and v
 If you’re interested in knowing, here’s what I’m up to [right now](/now)
 
 Sample markdown [here](/markdown-cheat-sheet)
+
+Posts can be found here: [posts](/posts)
+
+Sample post with date in title & front matter: [wdate](/2022-12-18-here-is-another-sample-post)
+
+Sample post without date in title: [date](/sample-post-jekyll)
