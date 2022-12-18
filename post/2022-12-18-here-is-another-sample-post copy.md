@@ -1,8 +1,8 @@
 ---
-layout: default
-title: Sample Post Jekyll
+layout: resume
+title: Sample Post with Date Jekyll
 date: 2022-12-18
-description: This is a sample post without date in title for Jekyll
+description: This is a sample post with date for Jekyll with Resume Layout
 summary: Sample post for Jekyll development
 tags: [jekyll]
 ---

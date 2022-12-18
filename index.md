@@ -15,3 +15,5 @@ Posts can be found here: [posts](/posts)
 Sample post with date in title & front matter: [wdate](/2022-12-18-here-is-another-sample-post)
 
 Sample post without date in title: [date](/sample-post-jekyll)
+
+Another [post](/post)
