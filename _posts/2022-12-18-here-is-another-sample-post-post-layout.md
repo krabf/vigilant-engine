@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Sample Post Jekyll
+title: Sample Post with Date Jekyll
 date: 2022-12-18
-description: This is a sample post without date in title for Jekyll
+description: This is a sample post with date for Jekyll with Post Layout
 summary: Sample post for Jekyll development
 tags: [jekyll]
 ---
