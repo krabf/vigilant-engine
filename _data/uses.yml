@@ -1,0 +1,17 @@
+- name: Notion
+  role: Productivity App
+  imgPath: /
+  status: wip
+  appStoreURL: https://notion.so
+
+- name: Obsidian
+  role: Writing
+  imgPath: /
+  status: wip
+  appStoreURL: https://obsidian.md
+
+- name: Gauntlet
+  role: Design
+  imgPath: /
+  status: live
+  appStoreURL: /
