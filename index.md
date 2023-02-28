@@ -15,4 +15,4 @@ More about my work [here](/work).
 
 If you’re interested in knowing, here’s what I’m up to [right now](/now).
 
-Email me for collaborations.
+Email me for collaborations and freelance work.
