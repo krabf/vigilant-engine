@@ -14,3 +14,5 @@ I explore technology, publish thoughts, and create [Notion template](https://kra
 More about my work [here](/work).
 
 If you’re interested in knowing, here’s what I’m up to [right now](/now).
+
+Email me for collaborations.
