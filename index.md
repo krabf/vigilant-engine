@@ -15,4 +15,8 @@ More about my work [here](/work).
 
 If you’re interested in knowing, here’s what I’m up to [right now](/now).
 
+- [Resume](https://read.cv/krabf)
+- [Instagram](https://www.instagram.com/krabf/)
+- [LinkedIn](https://www.linkedin.com/in/kushaiahfelisilda/)
+
 Email me for collaborations and freelance work.
