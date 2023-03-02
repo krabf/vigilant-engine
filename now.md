@@ -16,6 +16,9 @@ I love the World Wide Web and computers. I can commit and deploy simple code lik
 
 *Last updated on March 2, 2023*
 
+
+Return to the [home](/).
+
 ----
 
 This is my [now page](https://nownownow.com/about). It’s the place to find out what I’m interested in and doing recently. Inspired by [Derek Sivers](https://sive.rs/now).
