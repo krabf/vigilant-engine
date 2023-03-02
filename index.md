@@ -3,7 +3,8 @@ layout: default
 title: Home
 class: home
 ---
-{% for entry in site.data.home %}{{ entry.entry }}
+
+{% for icon in site.data.home %}
 
 Hi, my name is Kush (she/her) and I’m an independent filmmaker, [Notion](https://www.notion.so/product) Ambassador based in Cebu City, Philippines. 
 I’m currently working at [fewStones](https://fewstones.com/) Singapore-based corporate production company, as a Live Action Video Editor. 
