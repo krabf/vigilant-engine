@@ -11,13 +11,15 @@ Following my relocation to Cebu City, I was eager to find a job that provided me
 ### Coffee Stuff
 In October 2021, I fell into the rabbit hole of coffee brewing for the first time and found a hobby that helped me through tough times. I love how coffee comes from different parts of the world and get a deeper appreciation for their differences. I promised myself that I would never make a profit from this hobby, and I am still trying to improve my skills.
 
-### Learning Stuff.
-I love the World Wide Web and computers. I can commit and deploy simple code like Jamstack stuff. I can Easy Ease in After Effects. Make logos and inforgraphics "pop". And cook good food.
+### Stuff
+I love the World Wide Web and computers and gadgets. I can commit and deploy simple code like Jamstack stuff. I can Easy Ease in After Effects. Make logos and inforgraphics "pop". And cook good food.
+
 
 *Last updated on March 2, 2023*
 
 
-Return to the [home](/).
+Return to the [home page](/).
+
 
 ----
 
