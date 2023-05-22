@@ -11,7 +11,7 @@ film festivals in the Philippines.
 
 I explore technology, publish thoughts, and create [Notion template](https://krabf.gumroad.com). 
 
-More about my work [here](/work).
+More about my work [here](https://bento.me/krabf).
 
 If you’re interested in knowing, here’s what I’m up to [right now](/now).
 
